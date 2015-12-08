@@ -1,7 +1,7 @@
 # Csv files
 *.csv
-data/
-!*.ttf
+/data/*
+!/data/*.ttf
 
 # Some general ignore patterns
 build/
