@@ -1,5 +1,7 @@
 # Csv files
 *.csv
+*./bin/data
+*.rtf
 
 # Some general ignore patterns
 build/
