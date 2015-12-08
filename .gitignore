@@ -1,6 +1,6 @@
 # Csv files
 *.csv
-bin/data/
+data/
 !*.ttf
 
 # Some general ignore patterns
